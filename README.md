@@ -1,1 +1,1 @@
-# .github
+# Oroscop Description repository
