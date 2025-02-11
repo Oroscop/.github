@@ -6,7 +6,7 @@ Welcome to **Oroscop**! We are developing an **open-source blockchain**, focused
 
 To create a **transparent, accessible, and high-performance blockchain**, designed for developers and businesses to build decentralized applications (dApps) and next-generation Web3 solutions.  
 
-## 🔥 **Why This Blockchain?**  
+## **Why This Blockchain?**  
 
 - ✅ **Open Source & Transparent** – A community-driven, fully accessible codebase.  
 - ⚡ **Scalability & Performance** – Optimized architecture for high transaction throughput.  
